@@ -35,7 +35,7 @@ namespace Space_Race
         int xP1rocket = 200; // to track player1 X value.
         int xP2rocket = 600; // to track player2 X value.
 
-        int rocketSpeed = 30; //tracks speed rockets move at.
+        int rocketSpeed = 15; //tracks speed rockets move at.
         int asteroidSize = 10; //tracks size of asteroids.
 
         bool wDown = false;
