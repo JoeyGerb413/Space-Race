@@ -8,9 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Media;
-
+/// <summary>
+/// 
+/// </summary>
 namespace Space_Race
 {
+    //Joey Gerber
+    //Mr. Theodoropoulos
+    //ICS3U
+    //A simulation of the classic space race game, players must avoid asteroids and accumulate more points than their opponent before the timer runs out.
     public partial class Form1 : Form
     {
         String gameState = "waiting";
